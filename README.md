@@ -49,9 +49,10 @@ I am a results-driven Senior Automation Engineer with over 10 years of experienc
 
 ---
 
-### 📈 **GitHub Stats:**
-
-![Waseem's GitHub stats](https://github-readme-stats.vercel.app/api?username=waseemali-qa\&show_icons=true\&theme=default)
+### 📈 GitHub Stats:
+![Waseem's GitHub stats](https://github-readme-stats.vercel.app/api?username=waseemali-qa&show_icons=true&theme=default)
+### 🔥 GitHub Activity Graph:
+[![Waseem's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=waseemali-qa&theme=github-compact)](https://github.com/waseemali-qa)
 
 ---
 
